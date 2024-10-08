@@ -1,6 +1,6 @@
 # Paulo Roberto 
 
-## Hi I'm Paulo Roberto Pereira da Silva Filho, but i usually call myself on the internet by the nickname "Betis".
+Hi, I'm Paulo Roberto Pereira da Silva Filho, but i usually call myself on the internet by the nickname "Betis".
 
 # About Me
 
