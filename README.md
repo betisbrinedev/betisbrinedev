@@ -1,13 +1,14 @@
 # Paulo Roberto 
-- 👋 Hi, I’m @betisbrinedev, aka betis
 
-- 🇧🇷 I'm brazilian
+## Hi I'm Paulo Roberto Pereira da Silva Filho, but i usually call myself on the internet by the nickname "Betis".
 
-- 🇺🇲🇧🇷 understand English and Portuguese ( and a little bit of Spanish )
+# About Me
+
+- 🇺🇲🇧🇷 I understand English and Portuguese ( and a LITTLE bit of Spanish )
 
 - 👀 I’m interested in making games
 
-- 🌱 I’m currently learning C# and the Unity Engine 
+- 🌱 I’m currently learning C# and the Unity Engine  
 
 - 😄 Pronouns: he/him ig
 
