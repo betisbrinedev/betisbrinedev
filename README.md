@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @betisbrinedev, aka betis
+
+- 🇧🇷 I'm brazilian
+
+- 🇺🇲🇧🇷 understand English and Portuguese ( and a little bit of Spanish )
+
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning C#
+
+- 🌱 I’m currently learning C# and the Unity Engine 
+
 - 😄 Pronouns: he/him ig
 
 <!---
