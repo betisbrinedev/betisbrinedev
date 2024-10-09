@@ -4,7 +4,7 @@ Hi, I'm Paulo Roberto Pereira da Silva Filho, but i usually call myself on the i
 
 # About Me
 
-- 🇺🇲🇧🇷 I understand English and Portuguese ( and a LITTLE bit of Spanish )
+- I understand English and Portuguese ( and a LITTLE bit of Spanish )
 
 - 👀 I’m interested in making games
 
