@@ -1,12 +1,12 @@
-# Paulo Roberto 
+# Betis 
 
-Hi, I'm Paulo Roberto Pereira da Silva Filho, but i usually call myself on the internet by the nickname "Betis".
+Hi, I'm Paulo Roberto, but i usually call myself on the internet by the nickname "Betis".
 
 ## About Me
 
 - I understand English and Portuguese ( and a LITTLE bit of Spanish )
 
-- 👀 I’m interested in making games
+- 👀 I’m interested in making games or working in a game company
 
 - 🌱 I’m currently learning C# and the Unity Engine  
 
