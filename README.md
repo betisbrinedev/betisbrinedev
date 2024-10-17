@@ -1,7 +1,6 @@
 # Betis 
 
 Hi, I'm Paulo Roberto, but i usually call myself on the internet by the nickname "Betis".
-he/him
 ## About Me
 
 - I understand English and Portuguese ( and a LITTLE bit of Spanish )
