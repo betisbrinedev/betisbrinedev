@@ -3,8 +3,8 @@
 Hi, I'm Paulo Roberto, but i usually call myself on the internet by the nickname "Betis".
 ## About Me
 
-- I understand English and Portuguese ( and a LITTLE bit of Spanish )
-  
+- I understand English and Portuguese
+
 - I'm currently studying in ETEC
 
 -  I’m interested in making games or working in a game company
